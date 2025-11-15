@@ -1,0 +1,5 @@
+{
+  "name": "AI Presentation Generator",
+  "description": "An advanced, modern web application that leverages the Gemini API to generate professional presentation slides from a user-provided topic, target audience, and desired slide count.",
+  "requestFramePermissions": []
+}
